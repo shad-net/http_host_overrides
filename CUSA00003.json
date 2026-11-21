@@ -1,0 +1,7 @@
+{
+ "_comment": "Sends Driveclub's online traffic to custom shadnet server",
+ "egs.driveclub.online.scee.com": "http://srv.shadps4.net:30002",
+ "hub.services.otg.scee.com": "http://srv.shadps4.net:30002",
+ "driveclub-activity-feed.s3.amazonaws.com": "http://srv.shadps4.net:30002",
+ "driveclub.api.wwsga.me": "http://srv.shadps4.net:30002"
+}
